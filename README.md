@@ -23,3 +23,4 @@ Goal - I want contributors to help me list some favorite Pokémon.
 15. Pecharunt
 16. Lapras
 17. Pikachu
+18. ソーナンス
