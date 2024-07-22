@@ -21,4 +21,5 @@ Goal - I want contributors to help me list some favorite Pokémon.
 13. snorlax
 14. カビゴン
 15. Pecharunt
-16. Pikachu
+16. Lapras
+17. Pikachu
