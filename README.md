@@ -25,4 +25,4 @@ Goal - I want contributors to help me list some favorite Pokémon.
 17. Pikachu
 18. Glaceon
 19. ソーナンス
-20. 
+20. Yadon
